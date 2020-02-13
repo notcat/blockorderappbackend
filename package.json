@@ -1,0 +1,25 @@
+{
+  "name": "blockorderappbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "jsdom": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notcatt/blockorderappbackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notcatt/blockorderappbackend/issues"
+  },
+  "homepage": "https://github.com/notcatt/blockorderappbackend#readme"
+}
